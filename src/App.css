@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.tooltip {
+  position: absolute;
+  padding: 10px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  pointer-events: none;
+  opacity: 0;
+}
+
+svg {
+  display: block;
+  margin: 0 auto;
+}
