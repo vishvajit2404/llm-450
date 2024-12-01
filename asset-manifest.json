@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/llm-450/static/css/main.7d06fe40.css",
+    "main.js": "/llm-450/static/js/main.3e8b0921.js",
+    "static/js/453.c01b5b65.chunk.js": "/llm-450/static/js/453.c01b5b65.chunk.js",
+    "index.html": "/llm-450/index.html",
+    "main.7d06fe40.css.map": "/llm-450/static/css/main.7d06fe40.css.map",
+    "main.3e8b0921.js.map": "/llm-450/static/js/main.3e8b0921.js.map",
+    "453.c01b5b65.chunk.js.map": "/llm-450/static/js/453.c01b5b65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d06fe40.css",
+    "static/js/main.3e8b0921.js"
+  ]
+}
